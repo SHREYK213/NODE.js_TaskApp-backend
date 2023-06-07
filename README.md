@@ -56,6 +56,17 @@ Create a .env file in the root directory and provide the following variables:
   - `PATCH /tasks/:id` - Update a specific task
   - `DELETE /tasks/:id` - Delete a specific task
 
+## Landing Page
+![image](https://github.com/SHREYK213/NODE.js_TaskApp-backend/assets/98221778/c7a17a00-5de9-4a87-be98-a87cea01f83b)
+## Login/SignUp
+![image](https://github.com/SHREYK213/NODE.js_TaskApp-backend/assets/98221778/0d6884b7-8082-4d53-9122-cffc1d6f07e7)
+## User Dashbord
+![image](https://github.com/SHREYK213/NODE.js_TaskApp-backend/assets/98221778/990133d2-955c-40d4-a3de-e2838489bae4)
+## Task Creation
+![image](https://github.com/SHREYK213/NODE.js_TaskApp-backend/assets/98221778/ee42adb5-1412-459b-b764-3b1b71b3e4a5)
+![image](https://github.com/SHREYK213/NODE.js_TaskApp-backend/assets/98221778/3cd0ced6-9e38-4d1e-a539-89cd5a2fca86)
+
+
 For detailed documentation of each endpoint and request/response examples, please refer to the API documentation provided with this repository.
 
 ## Contributing
@@ -69,3 +80,5 @@ If you want to contribute to this project, you can follow these steps:
 
 ### Contact
 If you have any questions or suggestions, feel free to contact me.
+
+
