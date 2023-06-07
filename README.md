@@ -14,6 +14,8 @@ Before running the server, make sure you have the following installed:
 
 1. Node.js (v12 or higher)
 2. MongoDB (local or remote)
+
+
 ## Getting Started
 1. Clone the repository:
 ```bash
@@ -66,8 +68,6 @@ Create a .env file in the root directory and provide the following variables:
 ![image](https://github.com/SHREYK213/NODE.js_TaskApp-backend/assets/98221778/ee42adb5-1412-459b-b764-3b1b71b3e4a5)
 ![image](https://github.com/SHREYK213/NODE.js_TaskApp-backend/assets/98221778/3cd0ced6-9e38-4d1e-a539-89cd5a2fca86)
 
-
-For detailed documentation of each endpoint and request/response examples, please refer to the API documentation provided with this repository.
 
 ## Contributing
 If you want to contribute to this project, you can follow these steps:
